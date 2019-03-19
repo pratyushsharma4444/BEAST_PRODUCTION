@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BEAST PRODUCTIONS
 
 You can use the [editor on GitHub](https://github.com/pratyushsharma4444/BEAST/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
